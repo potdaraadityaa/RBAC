@@ -16,7 +16,7 @@ A comprehensive JWT Authentication and Role-Based Access Control (RBAC) system b
 - **Workarounds**: Built-in 404 router redirects to run React Router smoothly on GitHub Pages subfolder hosting.
 
 ## Live Demo
-- **Frontend**: https://yourusername.github.io/rbac-frontend/
+- **Frontend**: https://potdaraadityaa.github.io/RBAC/
 - **Backend Swagger (local)**: http://localhost:8080/swagger-ui.html
 
 ---
